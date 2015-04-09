@@ -1,0 +1,32 @@
+html,body {
+  margin: 0;
+  padding: 0;
+}
+#alert {
+  position: fixed;
+  display: none;
+  top: 0;left: 0;
+  width: 100vw;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+  background: rgba(68,181,73, 0.8);
+  z-index: 1041;
+}
+#main {
+  margin-top: 100px;
+}
+#schemaAddBtn {
+  cursor: pointer;
+}
+.schema-item {
+  cursor: pointer;
+}
+.glyphicon {
+  cursor: pointer;
+}
+#btnAddJson {
+  display: none;
+}
