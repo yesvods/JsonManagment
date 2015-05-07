@@ -4,8 +4,12 @@
 ## how to use
 ### install all dependencies:
 
-npm i
+```
+npm intall
+```
 
 ### and
 
+```
 gulp serve
+```
